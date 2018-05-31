@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
 class Point {
-  static x: number;
   x: number;
   y: number;
 
